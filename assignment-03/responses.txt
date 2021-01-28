@@ -1,0 +1,5 @@
+1.) Newschoolers.com, Nike.com, Ebay.com 
+2.) An Ip address are assigned to any computer or server to identify a givin network.
+A DSN is used to convert references into a servers IP.
+3.)Cookies are used to collect information about the user's browsing activity.
+4.) Protocol, Domain Name, and path.
